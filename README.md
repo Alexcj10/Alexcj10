@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
 
-<h1 align="center">Hi 👋, I'm Alex</h1>
+<h1 align="center">Hi 👋🏼, I'm Alex</h1>
 <h3 align="center">"Data Science Journey: Exploring Insights, Algorithms, and Real-World Applications"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alexcj10&label=Profile%20views&color=0e75b6&style=flat" alt="Alexcj10" /> </p>
