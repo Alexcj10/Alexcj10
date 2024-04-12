@@ -62,15 +62,7 @@ alt="https://www.instagram.com/alexcj_10?igsh=enm4njn4c3h5emkz" height="38" widt
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
 </div>
 
-###
 
-</div><h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexcj10&show_icons=true&locale=en&theme=radical" alt="Alexcj10" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Alexcj10&theme=radical" alt="Alexcj10" /></p>
-
-</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Alexcj10&theme=redical"/>
 
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
