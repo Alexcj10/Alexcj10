@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://instagram.com/https://www.instagram.com/alexcj_10?igsh=enm4njn4c3h5emkz" target="blank"><img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-alt="https://www.instagram.com/alexcj_10?igsh=enm4njn4c3h5emkz" height="35" width="45" /></a>
+alt="https://www.instagram.com/alexcj_10?igsh=enm4njn4c3h5emkz" height="38" width="47" /></a>
 </p>
 
 <h3 align="left">Languages :</h3>
