@@ -12,7 +12,7 @@
 - ✨ Creating bugs since ... **2023 (my coding journey began)**
 - 🌱 I’m currently learning **Data Science  with Python and ADBMS (Advanced Database Management Systems).**
 - 🎯 Goals: ... **Build a time series forecasting model to predict stock prices or cryptocurrency values using historical market data and advanced machine learning algorithms.**
-- 💬 Ask me about **Data Science, Machine Learning, Python and Crypto Currency**
+- 💬 Ask me about **Data Science, Machine Learning, Python**
 - 🎲 Fun fact: ... **Banging your head against a wall for one hour burns 150 calories.**
 - 🐧  I like exploring **Crypto Currency**
 - 📫 How to reach me **alexchandarjoshva@gmail.com**
