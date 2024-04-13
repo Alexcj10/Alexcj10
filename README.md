@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Data Science  with Python and ADBMS (Advanced Database Management Systems).**
 - 🎯 Goals: ... **Build a time series forecasting model to predict stock prices or cryptocurrency values using historical market data and advanced machine learning algorithms.**
 - 💬 Ask me about **Data Science, Machine Learning, Python**
-- 🎲 Fun fact: ... **Banging your head against a wall for one hour burns 150 calories.**
+- 🎲 Fun fact: ... **The shortest war in history was between Britain and Zanzibar on August 27, 1896. Zanzibar surrendered after 38 minutes.**
 - 🐧  I like exploring **Crypto Currency**
 - 📫 How to reach me **alexchandarjoshva@gmail.com**
 
