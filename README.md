@@ -21,7 +21,10 @@
 <p align="left">
 <a href="https://instagram.com/https://www.instagram.com/alexcj_10?igsh=enm4njn4c3h5emkz" target="blank"><img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-alt="https://www.instagram.com/alexcj_10?igsh=enm4njn4c3h5emkz" height="38" width="47" /></a>
+alt="https://www.instagram.com/alexcj_10?igsh=enm4njn4c3h5emkz" height="40" width="52" /></a>
+<a href="http://www.linkedin.com/in/alexchandarjoshva" target="_blank"><img align="center"
+src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </p>
 
 <h3 align="left">Languages :</h3>
