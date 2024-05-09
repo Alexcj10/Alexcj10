@@ -16,6 +16,7 @@
 - 🎲 Fun fact: ... **The shortest war in history was between Britain and Zanzibar on August 27, 1896. Zanzibar surrendered after 38 minutes.**
 - 🐧  I like exploring **Crypto Currency**
 - 📫 How to reach me **alexchandarjoshva@gmail.com**
+- 🔗 Visit my Data Science Portfolio **https://www.datascienceportfol.io/alexcj**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
