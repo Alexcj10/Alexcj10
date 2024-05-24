@@ -10,7 +10,7 @@
 <img align="right" alt="Data Science" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" >
 
 - ✨ Creating bugs since ... **2023 (my coding journey began)**
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science, an interdisciplinary and rapidly growing field that involves data preprocessing, exploratory data analysis, statistical inference, machine learning, deep learning, data mining, big data analytics, data visualization, data storage solutions, cloud computing, and ethical considerations, all designed to turn raw data into actionable insights and informed decisions.**
 - 🎯 Goals: ... **Build a time series forecasting model to predict stock prices or cryptocurrency values using historical market data and advanced machine learning algorithms.**
 - 💬 Ask me about **Data Science, Machine Learning, Python**
 - 🎲 Fun fact: ... **The shortest war in history was between Britain and Zanzibar on August 27, 1896. Zanzibar surrendered after 38 minutes.**
