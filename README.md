@@ -28,6 +28,18 @@ src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/mas
   </a> -->
 </p>
 
+<h3 align="left">Python Libraries :</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="numpy logo" />
+  <img width="6" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="45" alt="matplotlib logo" />
+  <img width="6" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="45" alt="seaborn logo" />
+</div>
+
+
 <h3 align="left">Languages :</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
