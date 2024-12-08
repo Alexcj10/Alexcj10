@@ -54,7 +54,6 @@ src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/mas
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo" />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="sql logo" />
 </div>
 
 
