@@ -1,4 +1,4 @@
-
+![MasterHead](https://pit-un.org/wp-content/uploads/2023/03/DATA_AI_HEADER_ANI.gif)
 
 <h1 align="center">Hi👋, I'm Alex</h1>
 <h3 align="center">"Data Science Journey: Exploring Insights, Algorithms, and Real-World Applications"</h3>
