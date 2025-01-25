@@ -19,8 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/alexcj_10?igsh=enm4njn4c3h5emkz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="52" /></a>
-<!-- Uncomment the LinkedIn section if you want to include it -->
-<!-- <a href="http://www.linkedin.com/in/alexchandarjoshva" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" /></a> -->
+<a href="https://www.linkedin.com/in/alexcj10/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
